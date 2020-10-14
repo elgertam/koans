@@ -1,3 +1,6 @@
+# Editor detritus
+*.code-workspace
+
 # Logs
 logs
 *.log
